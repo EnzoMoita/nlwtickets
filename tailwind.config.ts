@@ -16,6 +16,10 @@ export default {
         danger: "#F05D6C",
       },
     },
+    fontFamily: {
+      sans: ["var(--font-oxanium)", "sans-serif"],
+      mono: ["var(--font-montserrat)", "monospace"],
+    },
   },
   plugins: [],
 } satisfies Config;
