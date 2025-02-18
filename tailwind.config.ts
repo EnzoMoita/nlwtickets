@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        blueL: "#6F9DE2",
+        purpleL: "#9871F3",
+        danger: "#F05D6C",
       },
     },
   },
